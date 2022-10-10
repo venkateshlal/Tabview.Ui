@@ -1,3 +1,4 @@
+![image_2022-10-11_000503008](https://user-images.githubusercontent.com/111181152/194931593-09f650a6-7910-4159-a5fb-1b7c944bf63d.png)
 # flutter_application_trail
 
 A new Flutter project.
